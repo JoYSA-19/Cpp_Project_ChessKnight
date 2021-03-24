@@ -1,4 +1,4 @@
-# Cpp_Project_ChessKnight
+# Project_ChessKnight
 Langara CPSC 2150 academic project
 
 This program shows: In a chessboard (8x8), the knight can start from any
